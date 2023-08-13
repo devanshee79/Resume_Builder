@@ -1,0 +1,43 @@
+.heroImg{
+    position: absolute;
+    bottom: 50px;
+    right: 0px;
+    width: 720px;
+    height: 590px;
+    size: 200px;
+}
+.btn{
+    position: absolute;
+    bottom: -320px;
+    left: 0px;
+    margin: 40px;
+    width: 250px;
+    height: 60px !important;
+}
+.content{
+    border: 0px;
+}
+
+.p1{
+    margin: 30px;
+    position: absolute;
+    top: 110px;
+    font-family: Roboto;
+    font-size: 70px;
+    font-weight: 600px;
+}
+.p2{
+    margin: 30px;
+    position: relative;
+    top: 200px;
+    font-family: Roboto;
+    font-size: 70px;
+    font-weight: 600px;
+}
+.p3{
+    position: absolute;
+    top: 310px!important;
+    font-family: Roboto;
+    left: 40px!important;
+    font-size: 27px!important;
+}

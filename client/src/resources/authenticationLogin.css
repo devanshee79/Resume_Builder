@@ -1,0 +1,67 @@
+.auth-parent{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h1.auth{
+    position: relative;
+    left: 190px;
+    font-size: 30px;
+    font-weight: 700;
+    color: rgba(41, 144, 172, 0.85) !important;
+}
+hr{
+    color: rgba(41, 144, 172, 0.85) !important;
+    margin-top: -5px;
+    margin-bottom: 60px;
+}
+.ant-btn{
+    position: relative !important;
+    left: 155px;
+    width: 170px;
+    bottom: -40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 21px;
+    font-weight: 500 !important;
+    overflow: hidden;
+    height: 40px !important;
+    align-items: center !important;
+    justify-content: center !important;
+    background-color: white !important;
+    color: black !important;
+    border: 3px solid rgba(41, 144, 172, 0.85) !important;
+    /* background-color: white !important; */
+    /* color: black !important; */
+}
+.ant-btn:hover{
+    background-color: rgba(41, 144, 172, 0.85) !important;
+    color: white !important;
+}
+.ant-form-item .ant-form-item-label >label{
+    margin: 20px -10px 20px 20px;
+    font-size: large;
+}
+.ant-input {
+    width: 300px !important;
+    margin: 20px;
+}
+.auth-parent form{
+    width: 500px;
+    height: 500px;
+    box-shadow: 0 0 3px gray;
+    padding: 20px;    
+    /* border: 5px solid rgba(0, 0, 0, 0.85) !important; */
+    border-radius: 5px;
+}
+.auth{
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 20px;
+    font-size: 25px;
+}
+.backBtn{
+    position: relative !important;
+    width: 20px !important;
+    height: 20px !important;
+}
+
